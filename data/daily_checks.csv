@@ -1,0 +1,211 @@
+engine_id,statement,label
+ENG019,no issues detected,Normal
+ENG014,visible crack in coolant reservoir,Urgent Intervention
+ENG008,oil color looks darker than usual,Intervention Later
+ENG010,sparks detected near battery terminals,Urgent Intervention
+ENG008,oil level is good,Normal
+ENG026,battery completely dead engine will not start,Urgent Intervention
+ENG003,engine temperature is normal,Normal
+ENG009,oil pressure warning light is on,Urgent Intervention
+ENG033,daily check completed no anomalies found,Normal
+ENG036,major oil leak pooling under engine,Urgent Intervention
+ENG031,engine takes longer than usual to start,Intervention Later
+ENG022,loud knocking noise from engine,Urgent Intervention
+ENG043,battery completely dead engine will not start,Urgent Intervention
+ENG029,battery voltage is a bit low,Intervention Later
+ENG011,engine started without issues,Normal
+ENG030,oil level is slightly low,Intervention Later
+ENG026,strong smoke coming from engine,Urgent Intervention
+ENG022,engine running smoothly,Normal
+ENG005,oil leak detected under the engine,Urgent Intervention
+ENG017,air filter needs cleaning soon,Intervention Later
+ENG012,air filter needs cleaning soon,Intervention Later
+ENG028,no smoke or unusual smell,Normal
+ENG021,coolant level critically low possible leak,Urgent Intervention
+ENG005,air filter needs cleaning soon,Intervention Later
+ENG003,unusual smell detected but engine running,Intervention Later
+ENG036,engine temperature critically high,Urgent Intervention
+ENG006,engine is running at normal temperature,Normal
+ENG013,oil level approaching minimum mark,Intervention Later
+ENG022,no unusual noise detected,Normal
+ENG017,strong smoke coming from engine,Urgent Intervention
+ENG018,coolant level critically low possible leak,Urgent Intervention
+ENG044,engine is running at normal temperature,Normal
+ENG005,unusual smell detected but engine running,Intervention Later
+ENG036,everything looks fine today,Normal
+ENG038,slight oil residue near engine,Intervention Later
+ENG042,oil level approaching minimum mark,Intervention Later
+ENG001,sparks detected near battery terminals,Urgent Intervention
+ENG014,oil level approaching minimum mark,Intervention Later
+ENG039,unusual smell detected but engine running,Intervention Later
+ENG006,major oil leak pooling under engine,Urgent Intervention
+ENG036,oil leak detected under the engine,Urgent Intervention
+ENG021,oil pressure warning light is on,Urgent Intervention
+ENG034,engine overheating immediately,Urgent Intervention
+ENG013,belt tension seems slightly loose,Intervention Later
+ENG003,strong smell of burning oil,Urgent Intervention
+ENG044,engine running smoothly,Normal
+ENG037,severe vibration detected in engine,Urgent Intervention
+ENG004,slight oil residue near engine,Intervention Later
+ENG016,slight oil residue near engine,Intervention Later
+ENG039,coolant level is normal,Normal
+ENG008,all checks passed successfully,Normal
+ENG008,battery completely dead engine will not start,Urgent Intervention
+ENG007,air filter is slightly dirty,Intervention Later
+ENG003,belt condition is good,Normal
+ENG006,all checks passed successfully,Normal
+ENG027,battery terminals show minor corrosion,Intervention Later
+ENG001,minor noise detected during idle,Intervention Later
+ENG034,no unusual noise detected,Normal
+ENG039,fluid levels are all good,Normal
+ENG006,no smoke or unusual smell,Normal
+ENG035,coolant level critically low possible leak,Urgent Intervention
+ENG026,no vibration detected,Normal
+ENG026,oil color looks darker than usual,Intervention Later
+ENG018,small coolant stain under engine,Intervention Later
+ENG010,oil color looks darker than usual,Intervention Later
+ENG003,strong smell of burning oil,Urgent Intervention
+ENG023,sparks detected near battery terminals,Urgent Intervention
+ENG015,engine running smoothly,Normal
+ENG027,belt condition is good,Normal
+ENG023,battery is fully charged,Normal
+ENG013,no issues detected,Normal
+ENG041,engine is running at normal temperature,Normal
+ENG016,battery terminals show minor corrosion,Intervention Later
+ENG029,air filter needs cleaning soon,Intervention Later
+ENG010,loud knocking noise from engine,Urgent Intervention
+ENG010,no unusual noise detected,Normal
+ENG043,engine temperature slightly higher than normal,Intervention Later
+ENG037,battery completely dead engine will not start,Urgent Intervention
+ENG007,belt tension seems slightly loose,Intervention Later
+ENG025,no unusual noise detected,Normal
+ENG009,coolant level critically low possible leak,Urgent Intervention
+ENG039,engine takes longer than usual to start,Intervention Later
+ENG016,engine takes longer than usual to start,Intervention Later
+ENG019,daily check completed no anomalies found,Normal
+ENG017,belt snapped during morning check,Urgent Intervention
+ENG020,hydraulic fluid leaking rapidly,Urgent Intervention
+ENG004,minor noise detected during idle,Intervention Later
+ENG016,belt condition is good,Normal
+ENG041,air filter needs cleaning soon,Intervention Later
+ENG026,no unusual noise detected,Normal
+ENG028,minor vibration detected,Intervention Later
+ENG014,oil level approaching minimum mark,Intervention Later
+ENG009,battery voltage is a bit low,Intervention Later
+ENG020,slight oil residue near engine,Intervention Later
+ENG019,major oil leak pooling under engine,Urgent Intervention
+ENG043,no unusual noise detected,Normal
+ENG023,engine temperature slightly higher than normal,Intervention Later
+ENG041,coolant level is normal,Normal
+ENG017,all systems normal,Normal
+ENG011,minor noise detected during idle,Intervention Later
+ENG043,battery terminals show minor corrosion,Intervention Later
+ENG030,no vibration detected,Normal
+ENG013,engine is running at normal temperature,Normal
+ENG020,strong smell of burning oil,Urgent Intervention
+ENG030,engine making grinding noise,Urgent Intervention
+ENG028,all systems normal,Normal
+ENG024,no smoke or unusual smell,Normal
+ENG005,sparks detected near battery terminals,Urgent Intervention
+ENG038,sparks detected near battery terminals,Urgent Intervention
+ENG019,loud knocking noise from engine,Urgent Intervention
+ENG044,engine is running at normal temperature,Normal
+ENG025,no unusual noise detected,Normal
+ENG009,slight smoke detected at startup,Intervention Later
+ENG006,engine overheating immediately,Urgent Intervention
+ENG027,small coolant stain under engine,Intervention Later
+ENG009,oil pressure warning light is on,Urgent Intervention
+ENG037,battery terminals show minor corrosion,Intervention Later
+ENG002,engine is running at normal temperature,Normal
+ENG044,engine started without issues,Normal
+ENG004,engine producing black smoke continuously,Urgent Intervention
+ENG005,hydraulic fluid leaking rapidly,Urgent Intervention
+ENG019,engine overheating immediately,Urgent Intervention
+ENG041,engine running smoothly,Normal
+ENG033,engine temperature critically high,Urgent Intervention
+ENG036,strong smoke coming from engine,Urgent Intervention
+ENG018,unusual smell detected but engine running,Intervention Later
+ENG014,engine making grinding noise,Urgent Intervention
+ENG025,all checks passed successfully,Normal
+ENG004,belt condition is good,Normal
+ENG026,coolant level is below normal,Intervention Later
+ENG011,fluid levels are all good,Normal
+ENG022,air filter is slightly dirty,Intervention Later
+ENG030,engine is running at normal temperature,Normal
+ENG003,hydraulic fluid leaking rapidly,Urgent Intervention
+ENG005,severe vibration detected in engine,Urgent Intervention
+ENG034,oil level is slightly low,Intervention Later
+ENG035,belt condition is good,Normal
+ENG029,sparks detected near battery terminals,Urgent Intervention
+ENG005,battery is fully charged,Normal
+ENG039,engine temperature slightly higher than normal,Intervention Later
+ENG037,visible crack in coolant reservoir,Urgent Intervention
+ENG015,engine temperature is normal,Normal
+ENG004,engine producing black smoke continuously,Urgent Intervention
+ENG009,engine running smoothly,Normal
+ENG001,belt shows signs of wear,Intervention Later
+ENG036,engine is running at normal temperature,Normal
+ENG001,belt shows signs of wear,Intervention Later
+ENG017,coolant level critically low possible leak,Urgent Intervention
+ENG016,oil pressure warning light is on,Urgent Intervention
+ENG011,belt snapped during morning check,Urgent Intervention
+ENG014,no leaks detected anywhere,Normal
+ENG011,oil level approaching minimum mark,Intervention Later
+ENG011,no vibration detected,Normal
+ENG002,no issues detected,Normal
+ENG016,coolant slightly below minimum level,Intervention Later
+ENG043,battery terminals show minor corrosion,Intervention Later
+ENG032,oil level is slightly low,Intervention Later
+ENG039,loud knocking noise from engine,Urgent Intervention
+ENG006,major oil leak pooling under engine,Urgent Intervention
+ENG005,oil level approaching minimum mark,Intervention Later
+ENG014,belt condition is good,Normal
+ENG029,no smoke or unusual smell,Normal
+ENG006,all systems normal,Normal
+ENG020,battery completely dead engine will not start,Urgent Intervention
+ENG007,coolant level is below normal,Intervention Later
+ENG010,battery is fully charged,Normal
+ENG043,coolant leaking visibly from hose,Urgent Intervention
+ENG028,minor vibration detected,Intervention Later
+ENG018,coolant leaking visibly from hose,Urgent Intervention
+ENG016,minor vibration detected,Intervention Later
+ENG016,strong smell of burning oil,Urgent Intervention
+ENG001,engine making grinding noise,Urgent Intervention
+ENG039,no issues detected,Normal
+ENG017,no smoke or unusual smell,Normal
+ENG015,belt shows signs of wear,Intervention Later
+ENG026,fluid levels are all good,Normal
+ENG023,belt is broken needs immediate replacement,Urgent Intervention
+ENG014,severe vibration detected in engine,Urgent Intervention
+ENG030,hydraulic fluid leaking rapidly,Urgent Intervention
+ENG033,no leaks detected anywhere,Normal
+ENG037,engine temperature is normal,Normal
+ENG006,battery terminals show minor corrosion,Intervention Later
+ENG023,daily check completed no anomalies found,Normal
+ENG015,oil level is good,Normal
+ENG043,engine producing black smoke continuously,Urgent Intervention
+ENG010,major oil leak pooling under engine,Urgent Intervention
+ENG016,belt shows signs of wear,Intervention Later
+ENG044,no issues detected,Normal
+ENG038,hydraulic fluid leaking rapidly,Urgent Intervention
+ENG008,belt is broken needs immediate replacement,Urgent Intervention
+ENG002,no unusual noise detected,Normal
+ENG009,belt condition is good,Normal
+ENG031,visible crack in coolant reservoir,Urgent Intervention
+ENG029,oil level approaching minimum mark,Intervention Later
+ENG004,visible crack in coolant reservoir,Urgent Intervention
+ENG036,slight oil residue near engine,Intervention Later
+ENG029,air filter is slightly dirty,Intervention Later
+ENG027,engine takes longer than usual to start,Intervention Later
+ENG037,belt shows signs of wear,Intervention Later
+ENG017,air filter needs cleaning soon,Intervention Later
+ENG004,air filter is slightly dirty,Intervention Later
+ENG027,hydraulic fluid leaking rapidly,Urgent Intervention
+ENG007,no vibration detected,Normal
+ENG044,oil pressure warning light is on,Urgent Intervention
+ENG008,belt tension seems slightly loose,Intervention Later
+ENG041,coolant level is below normal,Intervention Later
+ENG018,everything looks fine today,Normal
+ENG036,minor vibration detected,Intervention Later
+ENG042,visible crack in coolant reservoir,Urgent Intervention
+ENG002,slight smoke detected at startup,Intervention Later

@@ -1,0 +1,13 @@
+date,engine_id,statement,classification,priority,action,status
+2026-05-12,ENG001,engine running perfectly fine today,Normal,🟢 NORMAL,✅ No action required. Log daily check as completed.,Logged
+2026-05-12,ENG007,noticed small oil stain under engine,Urgent Intervention,🔴 URGENT INTERVENTION,🚨 STOP ENGINE! Urgent oil system inspection required.,Logged
+2026-05-12,ENG012,massive oil leak engine cannot start,Urgent Intervention,🔴 URGENT INTERVENTION,🚨 STOP ENGINE! Urgent oil system inspection required.,Logged
+2026-05-13,ENG001,all systems normal,Normal,🟢 NORMAL,✅ No action required. Log daily check as completed.,Logged
+2026-05-13,ENG007,oil level still low needs attention,Intervention Later,🟡 INTERVENTION LATER,🔧 Schedule oil filter check and top up within 48 hours.,Logged
+2026-05-13,ENG023,belt looks slightly worn,Intervention Later,🟡 INTERVENTION LATER,🔧 Schedule belt inspection and tension adjustment soon.,Logged
+2026-05-14,ENG001,engine running smoothly,Normal,🟢 NORMAL,✅ No action required. Log daily check as completed.,Logged
+2026-05-14,ENG012,engine making loud grinding noise,Urgent Intervention,🔴 URGENT INTERVENTION,🚨 STOP ENGINE! Internal engine damage suspected.,Logged
+2026-05-14,ENG031,coolant level critically low,Intervention Later,🟡 INTERVENTION LATER,🔧 Schedule coolant level check and refill within 48 hours.,Logged
+2026-05-15,ENG007,oil filter replaced running fine now,Intervention Later,🟡 INTERVENTION LATER,🔧 Schedule oil filter check and top up within 48 hours.,Logged
+2026-05-15,ENG023,belt tension adjusted no more noise,Normal,🟢 NORMAL,✅ No action required. Log daily check as completed.,Logged
+2026-05-15,ENG031,coolant refilled level back to normal,Intervention Later,🟡 INTERVENTION LATER,🔧 Schedule coolant level check and refill within 48 hours.,Logged
