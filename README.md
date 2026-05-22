@@ -1,11 +1,11 @@
-# 🔧 Smart Condition-Based Maintenance System (CBMS)
+#  Smart Condition-Based Maintenance System (CBMS)
 
-## 📋 Project Overview
+##  Project Overview
 An intelligent maintenance system that reads technician daily observations written in natural language and automatically classifies them into actionable maintenance priorities using NLP and Machine Learning.
 
 ---
 
-## 🚨 The Problem
+##  The Problem
 Traditional maintenance systems rely on fixed periodic schedules (every 3 or 6 months). This approach has two major flaws:
 - **Over-maintenance** — servicing engines that don't need it yet
 - **Under-maintenance** — missing critical issues that appear between scheduled dates
@@ -14,7 +14,7 @@ This project solves this by analyzing what the technician **actually observes** 
 
 ---
 
-## 💡 The Solution
+##  The Solution
 Every morning the technician writes a statement about each engine:
 - *"everything looks fine today"*
 - *"noticed small oil stain under engine"*
@@ -27,7 +27,7 @@ The system reads these statements and instantly:
 
 ---
 
-## 🎯 Classification Labels
+##  Classification Labels
 
 | Label | Meaning | Example |
 |-------|---------|---------|
@@ -37,7 +37,7 @@ The system reads these statements and instantly:
 
 ---
 
-## 🛠️ Technical Approach
+##  Technical Approach
 
 ### Step 1 — Data Simulation
 - Generated 210 labeled technician statements
@@ -53,7 +53,7 @@ The system reads these statements and instantly:
 | Model | Accuracy |
 |-------|----------|
 | Logistic Regression | 93% |
-| **Random Forest** | **95%** ✅ |
+| **Random Forest** | **95%**  |
 
 ### Step 4 — Recommendation Engine
 - Maps classification → specific action
@@ -67,15 +67,15 @@ The system reads these statements and instantly:
 
 ---
 
-## 📈 Results
-- ✅ 95% classification accuracy
-- ✅ Normal statements never confused with Urgent
-- ✅ Component-specific recommendations
-- ✅ Full intervention history archived
+##  Results
+-  95% classification accuracy
+-  Normal statements never confused with Urgent
+-  Component-specific recommendations
+-  Full intervention history archived
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 cbms-nlp-classifier/
 ├── cbms_nlp_classifier.ipynb
 ├── data/
@@ -87,7 +87,7 @@ cbms-nlp-classifier/
 └── confusion_matrix_cbms.png
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 - **Python** — Pandas, Scikit-learn, Matplotlib, Seaborn
 - **NLP** — TF-IDF Vectorization, Text Classification
 - **ML Models** — Logistic Regression, Random Forest
@@ -95,12 +95,12 @@ cbms-nlp-classifier/
 
 ---
 
-## 🔗 Related Project
+##  Related Project
 This project is a continuation of:
 [Smart Engine Maintenance System](https://github.com/teachermarouane-ops/engine-maintenance-portfolio)
 
 ---
 
-## 👤 Author
+##  Author
 **teachermarouane-ops**
 ALX Data Science Program — Portfolio Project 2026
