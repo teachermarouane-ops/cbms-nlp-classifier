@@ -1,3 +1,5 @@
+## 🌐 Live Demo
+👉 [Try the app here](https://cbms-maintenance.streamlit.app)
 #  Smart Condition-Based Maintenance System (CBMS)
 
 ##  Project Overview
